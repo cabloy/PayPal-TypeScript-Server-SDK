@@ -1,4 +1,5 @@
 {
+  "name": "@cabloy/paypal-server-sdk",
   "version": "2.2.1",
   "license": "MIT",
   "sideEffects": false,
@@ -27,7 +28,6 @@
     "trailingComma": "es5",
     "quoteProps": "preserve"
   },
-  "name": "@cabloy/paypal-server-sdk",
   "description": "PayPal's SDK for interacting with the REST APIs",
   "author": {
     "name": "PayPal"
